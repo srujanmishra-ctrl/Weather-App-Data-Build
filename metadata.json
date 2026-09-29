@@ -1,0 +1,6 @@
+{
+  "name": "Aura Weather Intelligence",
+  "description": "Comprehensive atmospheric intelligence with Open-Meteo forecasts, 7-day outlook, interactive weather charts, and smart daily planning recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
